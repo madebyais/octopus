@@ -5,6 +5,12 @@ A command-line tools to help you retrieve data with consul and kubectl.
 
 ### HOW-TO USE
 
+Please run `make` command to build and install.
+```
+$ make
+```
+
+Then you can call for help :)
 ```
 $ octopus --help
 Octopus is a command-line tools to help you retrieve data with consul and kubectl
