@@ -7,7 +7,7 @@ A command-line tools to help you retrieve data with consul and kubectl.
 
 ```
 $ octopus --help
-Octopus is a kubectl plugin that helps you do almost anything :D
+Octopus is a command-line tools to help you retrieve data with consul and kubectl
 
 Usage:
   octopus [command]

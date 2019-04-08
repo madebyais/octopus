@@ -9,7 +9,7 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:   "octopus",
-	Short: "Octopus is a kubectl plugin that helps you do almost anything :D",
+	Short: "Octopus is a command-line tools to help you retrieve data with consul and kubectl",
 }
 
 // Execute is the main execute for command
